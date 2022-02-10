@@ -1,28 +1,20 @@
 {
-    "name": "qlick/laravel-full-calendar",
-    "description": "Laravel helper for FullCalendar.io. Fork of https://github.com/maddhatter/laravel-fullcalendar",
+    "name": "eina84/laravel-full-calendar",
+    "description": "Laravel helper for FullCalendar.io. Fork of https://github.com/qlick/laravel-full-calendar which is fork of https://github.com/maddhatter/laravel-fullcalendar",
     "authors": [
         {
-            "name": "Qlick by Nermin Elkasovic",
-            "email": "nermin@qlick.ch",
-            "homepage": "https://qlick.ch",
+            "name": "testing only",
+            "email": "eina84@gmail.com",
+            "homepage": "https://github.com/eina84/laravel-full-calendar",
             "role": "Developer"
         }
     ],
+	"license": "none",
     "require": {
         "php": "^8.0",
         "illuminate/database": "^7.0|^8.0",
         "illuminate/support": "^7.0|^8.0",
         "laravel/helpers": "^1.0"
-    },
-    "license": "MIT",
-    "homepage": "https://github.com/nelkasovic/laravel-full-calendar",
-    "support": {
-        "email": "nermin@qlick.ch",
-        "issues": "https://github.com/nelkasovic/laravel-full-calendar/issues",
-        "wiki": "https://github.com/nelkasovic/laravel-full-calendar/wiki",
-        "source": "https://github.com/nelkasovic/laravel-full-calendar",
-        "docs": "https://github.com/nelkasovic/laravel-full-calendar"
     },
     "autoload": {
         "psr-4": {
