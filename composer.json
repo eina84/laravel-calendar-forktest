@@ -1,5 +1,5 @@
 {
-    "name": "eina84/laravel-full-calendar",
+    "name": "eina84/laravel-calendar-forktest",
     "description": "Laravel helper for FullCalendar.io. Fork of https://github.com/qlick/laravel-full-calendar which is fork of https://github.com/maddhatter/laravel-fullcalendar",
     "authors": [
         {
